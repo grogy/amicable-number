@@ -1,6 +1,8 @@
 Spřátelená čísla
 ================
 
+Úloha pochází ze zadání jednoho z úkolů z fakulty informačních technologií, ČVUT v Praze. Byla součástí k hodnocení předmětu "Programování a algoritmizace 1".
+
 
 Zadání úlohy
 ------------
